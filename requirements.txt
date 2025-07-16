@@ -1,0 +1,6 @@
+opencv-python
+torch
+transformers==4.40.0
+Pillow
+gspread
+oauth2client

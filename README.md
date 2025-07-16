@@ -51,8 +51,7 @@ python main.py
 
  - Uses Transformers and OpenCV
 
-### Anurag Pathak
-[Linkedin](https://www.linkedin.com/in/anurag-pathak-ap27032004)
+### [Anurag Pathak](https://www.linkedin.com/in/anurag-pathak-ap27032004)
 
 ###  License
 This project is licensed under the MIT License.
